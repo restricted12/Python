@@ -1,0 +1,21 @@
+NAME,POSITION,DEPARTMENT,SALARY
+John,SE,IT,85000
+Robert,DE,IT,92000
+David,FD,IT,82000
+Jason,ITSL,IT,65000
+Kevin,QA,IT,76000
+Jane,DA,Analytics,78000
+,DS,Analytics,95000
+Emily,,,88000
+Olivia,CS,Marketing,70000
+Sarah,DM,Marketing,72000
+Daniel,,Product,110000
+Susan,PM,Product,95000
+Jessica,BA,Business,84000
+Michael,HRM,Human Resources,95000
+Megan,HRS,Human Resources,78000
+Chris,UXD,Design,80000
+Mark,GD,Design,74000
+Amanda,FM,Finance,105000
+Richard,CFO,Finance,150000
+Karen,FA,Finance,95000

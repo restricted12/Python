@@ -1,0 +1,13 @@
+months,salaries,employee_names,positions,ages,num_employees
+Jan,85792,John Doe,Developer,34,12
+Feb,93402,Alice Smith,Manager,45,18
+Mar,67000,Bob Johnson,Analyst,28,23
+Apr,120381,Carol White,Engineer,51,30
+May,102380,David Brown,Team Lead,33,22
+Jun,57000,Eve Black,Designer,39,40
+Jul,85000,Frank Green,QA Specialist,41,25
+Aug,93020,Grace Wilson,IT Support,47,35
+Sep,120943,Hank Lewis,Consultant,29,10
+Oct,104982,Ivy Young,Data Scientist,55,15
+Nov,85000,Jake King,DevOps,32,42
+Dec,127000,Lily Adams,Product Owner,50,11
